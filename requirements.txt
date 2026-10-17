@@ -1,0 +1,3 @@
+# External audio processing and speech recognition models
+vosk>=0.3.45
+sounddevice>=0.4.6

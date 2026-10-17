@@ -1,0 +1,31 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and compile logs
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local persistent scores and custom configurations
+highscore.txt
+
+# Heavy model assets and weights directory configurations
+*.task
+*.pt
+*.pth
+*vosk-model*/
+
+# Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating system files
+.DS_Store
+Thumbs.db
